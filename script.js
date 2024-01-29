@@ -29,7 +29,25 @@ divs[15]=document.createElement('div')
 
 
 
-div_container.append(divs[0],divs[1]) // appending each div into div_conatiner
+div_container.append(// appending each div into div_conatiner
+    divs[0],
+    divs[1],
+    divs[2],
+    divs[3],
+    divs[4],
+    divs[5],
+    divs[6],
+    divs[7],
+    divs[8],
+    divs[9],
+    divs[10],
+    divs[11],
+    divs[12],
+    divs[13],
+    divs[14],
+    divs[15]) 
+
+
 
 
 
