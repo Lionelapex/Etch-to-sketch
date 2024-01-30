@@ -48,6 +48,7 @@ main_container.append(div_container16)
 
 const divs = new Array(16)// creates a list called divs with the length of 16 
 
+
 divs[0]=document.createElement('div')
 divs[1]=document.createElement('div')
 divs[2]=document.createElement('div')
